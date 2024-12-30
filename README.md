@@ -1,7 +1,8 @@
-## 안녕하세요 성장하는 개발자 강대원입니다.👋
+## 반갑습니다.👋
 일상에서 불편한 점을 찾아 해결하려고 노력하는 프론트엔드 개발자입니다.
 기본이 항상 중요하게 생각하고 있습니다.
 프론트엔드뿐만 아니라, 개발하여 성장하는 것을 즐깁니다.
+현재 `Prisma` `Nestjs`에도 관심이 생겨 도전하고 있습니다.
 
 <!--
 **Daewony/Daewony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

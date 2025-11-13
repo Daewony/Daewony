@@ -1,8 +1,6 @@
 ## 반갑습니다.👋
-일상에서 불편한 점을 찾아 해결하려고 노력하는 프론트엔드 개발자입니다.
-기본이 항상 중요하게 생각하고 있습니다.
-프론트엔드뿐만 아니라, 개발하여 성장하는 것을 즐깁니다.
-현재 `Prisma` `Nestjs`에도 관심이 생겨 도전하고 있습니다.
+'동작하는' 코드를 넘어 '신뢰할 수 있는' 시스템을 만드는 데 집중하는 엔지니어입니다.
+EXPLAIN이나 k6와 같은 도구로 시스템의 한계를 데이터로 증명하고, 캐싱이나 아키텍처 개선으로 병목을 해결하는 과정에 몰입합니다.
 
 <!--
 **Daewony/Daewony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
